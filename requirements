@@ -1,0 +1,12 @@
+streamlit_option_menu
+numpy
+pandas
+streamlit-aggrid
+plotly
+matplotlib
+scikit-image
+streamlit
+scikit-learn
+joblib
+requests
+seaborn
